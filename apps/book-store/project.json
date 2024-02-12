@@ -1,0 +1,24 @@
+{
+  "name": "book-store",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/book-store/src",
+  "projectType": "application",
+  "targets": {
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "options": {
+        "buildTarget": "book-store:build"
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "book-store:build:development"
+        },
+        "production": {
+          "buildTarget": "book-store:build:production"
+        }
+      }
+    }
+  },
+  "tags": []
+}

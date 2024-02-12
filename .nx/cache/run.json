@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run user:build:development",
+    "startTime": "2024-02-12T12:12:28.311Z",
+    "endTime": "2024-02-12T12:12:30.919Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "user:build",
+      "target": "build",
+      "projectName": "user",
+      "hash": "14148439520140839995",
+      "startTime": "2024-02-12T12:12:28.315Z",
+      "endTime": "2024-02-12T12:12:30.918Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

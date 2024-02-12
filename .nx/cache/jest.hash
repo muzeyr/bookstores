@@ -1,0 +1,338 @@
+{
+  "7115218749458146419": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "11506253192499888419": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/book-store"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/book-store"
+      ]
+    }
+  },
+  "10381327903129825578": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/store-manager"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/store-manager"
+      ]
+    }
+  },
+  "5402550427613616899": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/user"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/user"
+      ]
+    }
+  },
+  "5535033611081998534": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "12582627618621311762": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "10221121038282761527": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "9742808469523524180": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "14998957136497491980": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "8156451583151759055": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "8184229479732097867": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "14826966011189113328": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "481519460541056245": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "46214483422780838": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "3235645832810451006": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "7924652724433829327": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/user"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/user"
+      ]
+    }
+  }
+}

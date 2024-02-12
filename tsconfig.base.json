@@ -1,0 +1,26 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2020", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@book-store/libs": ["libs/src/lib/ndex.ts"],
+      "@book-store/shared": ["shared/src/lib/index.ts"],
+      "@book-store/shared/": ["libs/shared/src/lib/index.ts"],
+      "@book-store/shared/common": ["libs/shared/src/lib/common/index.ts"],
+      "@book-store/shared/config": ["libs/shared/src/lib/config/index.ts"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}

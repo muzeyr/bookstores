@@ -1,0 +1,24 @@
+{
+  "name": "store-manager",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/store-manager/src",
+  "projectType": "application",
+  "targets": {
+    "serve": {
+      "executor": "@nx/js:node",
+      "defaultConfiguration": "development",
+      "options": {
+        "buildTarget": "store-manager:build"
+      },
+      "configurations": {
+        "development": {
+          "buildTarget": "store-manager:build:development"
+        },
+        "production": {
+          "buildTarget": "store-manager:build:production"
+        }
+      }
+    }
+  },
+  "tags": []
+}
