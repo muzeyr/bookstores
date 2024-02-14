@@ -1,0 +1,30 @@
+Compiling TypeScript files for project "libs"...
+[1m[31m[96mlibs/src/lib/config/app/configuration.module.ts[0m:[93m3[0m:[93m22[0m - [91merror[0m[90m TS2307: [0mCannot find module '@hapi/joi' or its corresponding type declarations.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import * as Joi from '@hapi/joi';[39m[22m
+[1m[31m[7m [0m [91m                     ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[96mlibs/src/lib/config/app/configuration.ts[0m:[93m3[0m:[93m29[0m - [91merror[0m[90m TS4111: [0mProperty 'POSTGRES_USER' comes from an index signature, so it must be accessed with ['POSTGRES_USER'].[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m   postgresUser: process.env.POSTGRES_USER,[39m[22m
+[1m[31m[7m [0m [91m                            ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[96mlibs/src/lib/config/app/configuration.ts[0m:[93m4[0m:[93m33[0m - [91merror[0m[90m TS4111: [0mProperty 'POSTGRES_PASSWORD' comes from an index signature, so it must be accessed with ['POSTGRES_PASSWORD'].[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m4[0m   postgresPassword: process.env.POSTGRES_PASSWORD,[39m[22m
+[1m[31m[7m [0m [91m                                ~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[96mlibs/src/lib/config/app/configuration.ts[0m:[93m5[0m:[93m27[0m - [91merror[0m[90m TS4111: [0mProperty 'POSTGRES_DB' comes from an index signature, so it must be accessed with ['POSTGRES_DB'].[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m5[0m   postgresDb: process.env.POSTGRES_DB,[39m[22m
+[1m[31m[7m [0m [91m                          ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[96mlibs/src/lib/config/app/configuration.ts[0m:[93m6[0m:[93m29[0m - [91merror[0m[90m TS4111: [0mProperty 'POSTGRES_HOST' comes from an index signature, so it must be accessed with ['POSTGRES_HOST'].[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m6[0m   postgresHost: process.env.POSTGRES_HOST,[39m[22m
+[1m[31m[7m [0m [91m                            ~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[96mlibs/src/lib/config/app/configuration.ts[0m:[93m7[0m:[93m26[0m - [91merror[0m[90m TS4111: [0mProperty 'JWT_SECRET' comes from an index signature, so it must be accessed with ['JWT_SECRET'].[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m7[0m   jwtSecret: process.env.JWT_SECRET,[39m[22m
+[1m[31m[7m [0m [91m                         ~~~~~~~~~~[0m[39m[22m
+[1m[31m[96mlibs/src/lib/config/app/configuration.ts[0m:[93m8[0m:[93m27[0m - [91merror[0m[90m TS4111: [0mProperty 'JWT_EXPIRES' comes from an index signature, so it must be accessed with ['JWT_EXPIRES'].[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m8[0m   jwtExpires: process.env.JWT_EXPIRES,[39m[22m
+[1m[31m[7m [0m [91m                          ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m

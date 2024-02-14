@@ -1,18 +1,18 @@
 {
   "run": {
-    "command": "nx run user:build:development",
-    "startTime": "2024-02-12T12:12:28.311Z",
-    "endTime": "2024-02-12T12:12:30.919Z",
+    "command": "nx run backoffice:build:development",
+    "startTime": "2024-02-14T09:23:12.745Z",
+    "endTime": "2024-02-14T09:23:15.786Z",
     "inner": false
   },
   "tasks": [
     {
-      "taskId": "user:build",
+      "taskId": "backoffice:build",
       "target": "build",
-      "projectName": "user",
-      "hash": "14148439520140839995",
-      "startTime": "2024-02-12T12:12:28.315Z",
-      "endTime": "2024-02-12T12:12:30.918Z",
+      "projectName": "backoffice",
+      "hash": "13098194611458462003",
+      "startTime": "2024-02-14T09:23:12.750Z",
+      "endTime": "2024-02-14T09:23:15.785Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 1

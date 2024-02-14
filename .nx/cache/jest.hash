@@ -1,5 +1,5 @@
 {
-  "7115218749458146419": {
+  "10774013365895629310": {
     "test": {
       "command": "jest",
       "options": {
@@ -41,7 +41,7 @@
       ]
     }
   },
-  "10381327903129825578": {
+  "10894866880616272502": {
     "test": {
       "command": "jest",
       "options": {
@@ -62,7 +62,7 @@
       ]
     }
   },
-  "5402550427613616899": {
+  "8092006423129010735": {
     "test": {
       "command": "jest",
       "options": {
@@ -83,7 +83,7 @@
       ]
     }
   },
-  "5535033611081998534": {
+  "9557670967786832631": {
     "test": {
       "command": "jest",
       "options": {
@@ -104,7 +104,7 @@
       ]
     }
   },
-  "12582627618621311762": {
+  "8369564309144963397": {
     "test": {
       "command": "jest",
       "options": {
@@ -125,7 +125,7 @@
       ]
     }
   },
-  "10221121038282761527": {
+  "3314279782434011427": {
     "test": {
       "command": "jest",
       "options": {
@@ -146,7 +146,7 @@
       ]
     }
   },
-  "9742808469523524180": {
+  "13838992361393221366": {
     "test": {
       "command": "jest",
       "options": {
@@ -167,7 +167,7 @@
       ]
     }
   },
-  "14998957136497491980": {
+  "7701623319011614066": {
     "test": {
       "command": "jest",
       "options": {
@@ -188,7 +188,7 @@
       ]
     }
   },
-  "8156451583151759055": {
+  "13655166780644331827": {
     "test": {
       "command": "jest",
       "options": {
@@ -209,7 +209,7 @@
       ]
     }
   },
-  "8184229479732097867": {
+  "16820656645510476009": {
     "test": {
       "command": "jest",
       "options": {
@@ -230,7 +230,7 @@
       ]
     }
   },
-  "14826966011189113328": {
+  "8738518524265471259": {
     "test": {
       "command": "jest",
       "options": {
@@ -251,7 +251,7 @@
       ]
     }
   },
-  "481519460541056245": {
+  "12250896530198811256": {
     "test": {
       "command": "jest",
       "options": {
@@ -272,7 +272,7 @@
       ]
     }
   },
-  "46214483422780838": {
+  "13081824799292186606": {
     "test": {
       "command": "jest",
       "options": {
@@ -293,7 +293,7 @@
       ]
     }
   },
-  "3235645832810451006": {
+  "371836171925667807": {
     "test": {
       "command": "jest",
       "options": {
@@ -314,11 +314,11 @@
       ]
     }
   },
-  "7924652724433829327": {
+  "4682007517419632833": {
     "test": {
       "command": "jest",
       "options": {
-        "cwd": "apps/user"
+        "cwd": "libs"
       },
       "cache": true,
       "inputs": [
@@ -331,7 +331,553 @@
         }
       ],
       "outputs": [
-        "{workspaceRoot}/coverage/apps/user"
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "16632474543347387626": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "10402352563743315929": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "14550813612812510852": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "15012331642447353693": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "14536724046004452223": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "9931401872064738804": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "5281305246535910900": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "8026625049952649472": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "3808833786139160511": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "10809708398591007961": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "8070524121829296876": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "14388922516233924869": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "8487920446310470051": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "2892936109409874809": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "15511358462295682026": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "libs"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/libs"
+      ]
+    }
+  },
+  "4366454690091193343": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "4046149872681904795": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "18438325175863427327": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "3749315967774488432": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "11922365173948667710": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "10398014316044665652": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "10601065814863158572": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "8447153970735568951": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "3039261540410017830": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "15523076367699300973": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
+      ]
+    }
+  },
+  "7218122549922836009": {
+    "test": {
+      "command": "jest",
+      "options": {
+        "cwd": "apps/backoffice"
+      },
+      "cache": true,
+      "inputs": [
+        "default",
+        "^production",
+        {
+          "externalDependencies": [
+            "jest"
+          ]
+        }
+      ],
+      "outputs": [
+        "{workspaceRoot}/coverage/apps/backoffice"
       ]
     }
   }

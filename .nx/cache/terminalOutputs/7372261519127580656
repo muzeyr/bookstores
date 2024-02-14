@@ -1,0 +1,7 @@
+Compiling TypeScript files for project "libs"...
+[1m[31m[96mlibs/src/lib/config/app/configuration.module.ts[0m:[93m3[0m:[93m22[0m - [91merror[0m[90m TS7016: [0mCould not find a declaration file for module '@hapi/joi'. '/Users/uzeyrozcan/Desktop/eadam/bookstores/node_modules/@hapi/joi/lib/index.js' implicitly has an 'any' type.[39m[22m
+[1m[31m  Try `npm i --save-dev @types/hapi__joi` if it exists or add a new declaration (.d.ts) file containing `declare module '@hapi/joi';`[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m3[0m import * as Joi from '@hapi/joi';[39m[22m
+[1m[31m[7m [0m [91m                     ~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
